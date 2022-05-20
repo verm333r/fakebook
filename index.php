@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Facebook</title>
 </head>
 <body>
-    <p>Halo Ega</p>
+    <p>facebook</p>
+    <p>facebook membantu Anda terhubung dan berbagi dengan orang-orang dalam kehidupan Anda.</p>
 </body>
 </html>
